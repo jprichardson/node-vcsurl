@@ -7,9 +7,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git://github.com/jprichardson/node-vcsurl.git"
   },
-  "keywords": [],
+  "keywords": ["url", "github", "bitbucket"],
   "author": "JP Richardson <jprichardson@gmail.com>",
   "licenses": [
     {
