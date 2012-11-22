@@ -1,7 +1,7 @@
 {
   "name": "vcsurl",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.1.0",
+  "description": "Convert VCS repository URLs like Github or Bitbucket to their http equivalents.",
   "homepage": [
     ""
   ],
@@ -9,7 +9,11 @@
     "type": "git",
     "url": "git://github.com/jprichardson/node-vcsurl.git"
   },
-  "keywords": ["url", "github", "bitbucket"],
+  "keywords": [
+    "url",
+    "github",
+    "bitbucket"
+  ],
   "author": "JP Richardson <jprichardson@gmail.com>",
   "licenses": [
     {
@@ -17,9 +21,7 @@
       "url": ""
     }
   ],
-  "dependencies": {
-    "string": "~1.1.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "testutil": "~0.2.4"
   },
