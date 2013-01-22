@@ -1,6 +1,6 @@
 {
   "name": "vcsurl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert VCS repository URLs like Github or Bitbucket to their http equivalents.",
   "homepage": [
     ""
@@ -23,7 +23,7 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "testutil": "~0.2.4"
+    "testutil": "~0.4.0"
   },
   "main": "./lib/vcsurl.js",
   "scripts": {
